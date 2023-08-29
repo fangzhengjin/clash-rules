@@ -1,2 +1,0 @@
-DOMAIN-SUFFIX,monica.im
-DOMAIN-SUFFIX,raycast.com
