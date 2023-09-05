@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,raycast.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,dockerproxy.com
