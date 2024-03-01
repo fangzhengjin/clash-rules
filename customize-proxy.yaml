@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,dockerproxy.com
+  - DOMAIN-SUFFIX,coze.com
