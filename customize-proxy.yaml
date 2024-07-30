@@ -5,3 +5,5 @@ payload:
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,dockerproxy.com
   - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,linux.do,DIRECT
+  - DOMAIN-SUFFIX,oaifree.com,DIRECT
